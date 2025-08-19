@@ -57,19 +57,19 @@ Right: Product count report
 
  ## 📊 Example Output
 
-✅ Green → Normal stock
+-✅ Green → Normal stock
 
-🟠 Orange → Low stock (≤ threshold)
+-🟠 Orange → Low stock (≤ threshold)
 
-🔴 Red → Out of stock
+-🔴 Red → Out of stock
 
 ## 📌 Future Improvements
 
-✅ Live CCTV / webcam feed support.
+-✅ Live CCTV / webcam feed support.
 
-✅ Export stock reports as CSV/Excel.
+-✅ Export stock reports as CSV/Excel.
 
-✅ Integration with alerts (email/SMS) for out-of-stock.
+-✅ Integration with alerts (email/SMS) for out-of-stock.
 
 👨‍💻 Author
 
